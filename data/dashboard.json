@@ -542,6 +542,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -636,7 +643,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -715,7 +723,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-23": {
@@ -1789,6 +1798,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -1883,7 +1899,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -1962,7 +1979,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-23": {
@@ -2488,6 +2506,12 @@
           "views": 0
         },
         "2026-11-21": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-22": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -3036,6 +3060,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -3130,7 +3161,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -3209,7 +3241,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-20": {
@@ -3747,6 +3780,12 @@
           "views": 0
         },
         "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -4295,6 +4334,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -4389,7 +4435,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -4468,7 +4515,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-21": {
@@ -5560,6 +5608,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -5654,7 +5709,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -5733,7 +5789,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-22": {
@@ -6271,6 +6328,12 @@
           "views": 0
         },
         "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -6819,6 +6882,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -6913,7 +6983,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -6992,7 +7063,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-14": {
@@ -7560,6 +7632,12 @@
           "views": 0
         },
         "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -8108,6 +8186,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -8202,7 +8287,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -8281,7 +8367,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-23": {
@@ -8815,6 +8902,12 @@
         "2026-11-19": {
           "clones": 1,
           "unique_clones": 1,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
           "unique_views": 0,
           "views": 0
         }
@@ -9361,6 +9454,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -9455,7 +9555,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -9534,7 +9635,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-14": {
@@ -10124,6 +10226,12 @@
           "unique_clones": 0,
           "unique_views": 0,
           "views": 0
+        },
+        "2026-11-20": {
+          "clones": 1,
+          "unique_clones": 1,
+          "unique_views": 0,
+          "views": 0
         }
       }
     },
@@ -10668,6 +10776,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -10762,7 +10877,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -10841,7 +10957,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-23": {
@@ -11909,6 +12026,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -12003,7 +12127,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -12082,7 +12207,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-22": {
@@ -12610,6 +12736,12 @@
         "2026-11-19": {
           "clones": 1,
           "unique_clones": 1,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
           "unique_views": 0,
           "views": 0
         }
@@ -13156,6 +13288,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -13250,7 +13389,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -13329,7 +13469,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-23": {
@@ -13849,6 +13990,12 @@
           "views": 0
         },
         "2026-11-21": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-22": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -14397,6 +14544,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -14491,7 +14645,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -14570,7 +14725,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-18": {
@@ -15136,6 +15292,12 @@
           "unique_clones": 1,
           "unique_views": 0,
           "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
         }
       }
     },
@@ -15680,6 +15842,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -15774,7 +15943,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -15853,7 +16023,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-14": {
@@ -16443,6 +16614,12 @@
           "unique_clones": 0,
           "unique_views": 0,
           "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
         }
       }
     },
@@ -16987,6 +17164,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -17081,7 +17265,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -17160,7 +17345,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-22": {
@@ -18246,6 +18432,13 @@
           "release_downloads": 0,
           "stars": 3,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 1,
+          "open_issues": 19,
+          "release_downloads": 0,
+          "stars": 3,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -18806,6 +18999,32 @@
             "title": "/commits/master/README.md",
             "uniques": 1
           }
+        ],
+        "2026-11-22": [
+          {
+            "count": 3,
+            "path": "/anurag1504t/Pariksha",
+            "title": "Overview",
+            "uniques": 2
+          },
+          {
+            "count": 3,
+            "path": "/anurag1504t/Pariksha/pulls",
+            "title": "/pulls",
+            "uniques": 1
+          },
+          {
+            "count": 1,
+            "path": "/anurag1504t/Pariksha/blob/master/README.md",
+            "title": "/blob/master/README.md",
+            "uniques": 1
+          },
+          {
+            "count": 1,
+            "path": "/anurag1504t/Pariksha/commits/master/README.md",
+            "title": "/commits/master/README.md",
+            "uniques": 1
+          }
         ]
       },
       "referrer_snapshots": {
@@ -18982,6 +19201,13 @@
           }
         ],
         "2026-11-21": [
+          {
+            "count": 1,
+            "referrer": "github.com",
+            "uniques": 1
+          }
+        ],
+        "2026-11-22": [
           {
             "count": 1,
             "referrer": "github.com",
@@ -19529,6 +19755,12 @@
           "unique_clones": 0,
           "unique_views": 0,
           "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
         }
       }
     },
@@ -19779,6 +20011,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -19929,7 +20168,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-10-18": [],
@@ -20050,7 +20290,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-10-04": {
@@ -20878,6 +21119,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -20972,7 +21220,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -21051,7 +21300,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-23": {
@@ -21583,6 +21833,12 @@
           "views": 0
         },
         "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -22131,6 +22387,13 @@
           "release_downloads": 0,
           "stars": 1,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 1,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -22274,6 +22537,14 @@
             "title": "Overview",
             "uniques": 1
           }
+        ],
+        "2026-11-22": [
+          {
+            "count": 1,
+            "path": "/anurag1504t/SECURE-ATM-SYSYTEM",
+            "title": "Overview",
+            "uniques": 1
+          }
         ]
       },
       "referrer_snapshots": {
@@ -22353,7 +22624,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-22": {
@@ -22891,6 +23163,12 @@
           "views": 0
         },
         "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -23439,6 +23717,13 @@
           "release_downloads": 0,
           "stars": 4,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 3,
+          "release_downloads": 0,
+          "stars": 4,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -23676,6 +23961,20 @@
             "title": "/pulls",
             "uniques": 1
           }
+        ],
+        "2026-11-22": [
+          {
+            "count": 2,
+            "path": "/anurag1504t/SPAPRP",
+            "title": "Overview",
+            "uniques": 2
+          },
+          {
+            "count": 2,
+            "path": "/anurag1504t/SPAPRP/pulls",
+            "title": "/pulls",
+            "uniques": 1
+          }
         ]
       },
       "referrer_snapshots": {
@@ -23774,6 +24073,13 @@
           }
         ],
         "2026-11-21": [
+          {
+            "count": 1,
+            "referrer": "github.com",
+            "uniques": 1
+          }
+        ],
+        "2026-11-22": [
           {
             "count": 1,
             "referrer": "github.com",
@@ -24865,6 +25171,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -24959,7 +25272,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -25038,7 +25352,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-19": {
@@ -26142,6 +26457,13 @@
           "release_downloads": 0,
           "stars": 8,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 1,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 8,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -26954,6 +27276,14 @@
             "title": "Overview",
             "uniques": 3
           }
+        ],
+        "2026-11-22": [
+          {
+            "count": 3,
+            "path": "/anurag1504t/STOCK-DATABSE-MANAGEMENT",
+            "title": "Overview",
+            "uniques": 3
+          }
         ]
       },
       "referrer_snapshots": {
@@ -27280,6 +27610,13 @@
           }
         ],
         "2026-11-21": [
+          {
+            "count": 2,
+            "referrer": "github.com",
+            "uniques": 2
+          }
+        ],
+        "2026-11-22": [
           {
             "count": 2,
             "referrer": "github.com",
@@ -27827,6 +28164,12 @@
           "unique_clones": 1,
           "unique_views": 0,
           "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
         }
       }
     },
@@ -28371,6 +28714,13 @@
           "release_downloads": 0,
           "stars": 2,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 1,
+          "release_downloads": 0,
+          "stars": 2,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -28486,6 +28836,14 @@
             "title": "Overview",
             "uniques": 1
           }
+        ],
+        "2026-11-22": [
+          {
+            "count": 1,
+            "path": "/anurag1504t/Tree-Hack",
+            "title": "Overview",
+            "uniques": 1
+          }
         ]
       },
       "referrer_snapshots": {
@@ -28565,7 +28923,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-22": {
@@ -29103,6 +29462,12 @@
           "views": 0
         },
         "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -29651,6 +30016,13 @@
           "release_downloads": 0,
           "stars": 1,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 1,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -29808,6 +30180,14 @@
             "title": "Overview",
             "uniques": 1
           }
+        ],
+        "2026-11-22": [
+          {
+            "count": 2,
+            "path": "/anurag1504t/URCBagdogra",
+            "title": "Overview",
+            "uniques": 1
+          }
         ]
       },
       "referrer_snapshots": {
@@ -29936,6 +30316,13 @@
           }
         ],
         "2026-11-21": [
+          {
+            "count": 2,
+            "referrer": "github.com",
+            "uniques": 1
+          }
+        ],
+        "2026-11-22": [
           {
             "count": 2,
             "referrer": "github.com",
@@ -30479,6 +30866,12 @@
           "views": 0
         },
         "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -31027,6 +31420,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -31121,7 +31521,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -31200,7 +31601,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-22": {
@@ -31738,6 +32140,12 @@
           "views": 0
         },
         "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -32286,6 +32694,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -32380,7 +32795,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -32459,7 +32875,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-22": {
@@ -33167,6 +33584,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -33207,7 +33631,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-10-30": [],
@@ -33232,7 +33657,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-10-16": {
@@ -33988,6 +34414,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -34082,7 +34515,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -34161,7 +34595,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-14": {
@@ -34751,6 +35186,12 @@
           "unique_clones": 0,
           "unique_views": 0,
           "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
         }
       }
     },
@@ -35295,6 +35736,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -35487,7 +35935,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -35566,7 +36015,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-23": {
@@ -36098,6 +36548,12 @@
           "views": 0
         },
         "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -36646,6 +37102,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -36740,7 +37203,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -36819,7 +37283,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-14": {
@@ -37409,6 +37874,12 @@
           "unique_clones": 1,
           "unique_views": 0,
           "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
         }
       }
     },
@@ -37953,6 +38424,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -38047,7 +38525,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -38126,7 +38605,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-22": {
@@ -38658,6 +39138,12 @@
           "views": 0
         },
         "2026-11-21": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-22": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -39206,6 +39692,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -39545,6 +40038,14 @@
             "title": "/blob/main/CHANGELOG.md",
             "uniques": 1
           }
+        ],
+        "2026-11-22": [
+          {
+            "count": 1,
+            "path": "/anurag1504t/hyper-sdk-expo-plugin/blob/main/CHANGELOG.md",
+            "title": "/blob/main/CHANGELOG.md",
+            "uniques": 1
+          }
         ]
       },
       "referrer_snapshots": {
@@ -39624,7 +40125,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-14": {
@@ -40196,6 +40698,12 @@
           "unique_clones": 0,
           "unique_views": 0,
           "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
         }
       }
     },
@@ -40740,6 +41248,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 1,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -40932,7 +41447,8 @@
             "uniques": 1
           }
         ],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -41011,7 +41527,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-14": {
@@ -42145,6 +42662,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -42239,7 +42763,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -42318,7 +42843,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-23": {
@@ -42832,8 +43358,8 @@
           "views": 0
         },
         "2026-11-20": {
-          "clones": 0,
-          "unique_clones": 0,
+          "clones": 1,
+          "unique_clones": 1,
           "unique_views": 0,
           "views": 0
         },
@@ -43386,6 +43912,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -43480,7 +44013,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -43559,7 +44093,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-23": {
@@ -44081,6 +44616,12 @@
         "2026-11-19": {
           "clones": 0,
           "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
+          "clones": 1,
+          "unique_clones": 1,
           "unique_views": 0,
           "views": 0
         }
@@ -44627,6 +45168,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -44721,7 +45269,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -44800,7 +45349,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-20": {
@@ -45354,6 +45904,12 @@
           "unique_clones": 0,
           "unique_views": 0,
           "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
         }
       }
     },
@@ -45898,6 +46454,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -45992,7 +46555,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -46071,7 +46635,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-14": {
@@ -46657,6 +47222,12 @@
           "views": 0
         },
         "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -47205,6 +47776,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -47299,7 +47877,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -47378,7 +47957,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-14": {
@@ -47862,6 +48442,90 @@
           "views": 0
         },
         "2026-11-06": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-09": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-10": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-11": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-12": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-13": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-14": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-15": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-16": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-17": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-18": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-21": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-22": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -48410,6 +49074,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -48504,7 +49175,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -48583,7 +49255,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-21": {
@@ -49031,6 +49704,90 @@
           "views": 0
         },
         "2026-11-05": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-09": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-10": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-11": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-12": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-13": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-14": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-15": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-16": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-17": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-18": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-21": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-22": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -49579,6 +50336,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 1
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 1
         }
       },
       "metadata": {
@@ -49673,7 +50437,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -49752,7 +50517,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-22": {
@@ -50838,6 +51604,13 @@
           "release_downloads": 0,
           "stars": 0,
           "subscribers": 0
+        },
+        "2026-11-22": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
         }
       },
       "metadata": {
@@ -50932,7 +51705,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -51011,7 +51785,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-23": {
@@ -51543,6 +52318,12 @@
           "views": 0
         },
         "2026-11-19": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
+        },
+        "2026-11-20": {
           "clones": 0,
           "unique_clones": 0,
           "unique_views": 0,
@@ -52086,6 +52867,13 @@
           "subscribers": 0
         },
         "2026-11-21": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
+        },
+        "2026-11-22": {
           "forks": 0,
           "open_issues": 0,
           "release_downloads": 0,
@@ -52710,6 +53498,14 @@
             "title": "/blob/master/README.md",
             "uniques": 2
           }
+        ],
+        "2026-11-22": [
+          {
+            "count": 2,
+            "path": "/anurag1504t/system-design-primer/blob/master/README.md",
+            "title": "/blob/master/README.md",
+            "uniques": 2
+          }
         ]
       },
       "referrer_snapshots": {
@@ -52789,7 +53585,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-14": {
@@ -53361,6 +54158,12 @@
           "unique_clones": 0,
           "unique_views": 0,
           "views": 0
+        },
+        "2026-11-20": {
+          "clones": 0,
+          "unique_clones": 0,
+          "unique_views": 0,
+          "views": 0
         }
       }
     },
@@ -53900,6 +54703,13 @@
           "subscribers": 0
         },
         "2026-11-21": {
+          "forks": 0,
+          "open_issues": 0,
+          "release_downloads": 0,
+          "stars": 0,
+          "subscribers": 0
+        },
+        "2026-11-22": {
           "forks": 0,
           "open_issues": 0,
           "release_downloads": 0,
@@ -54685,7 +55495,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "referrer_snapshots": {
         "2026-09-05": [],
@@ -54848,7 +55659,8 @@
         "2026-11-18": [],
         "2026-11-19": [],
         "2026-11-20": [],
-        "2026-11-21": []
+        "2026-11-21": [],
+        "2026-11-22": []
       },
       "traffic": {
         "2026-08-23": {
@@ -55384,10 +56196,16 @@
           "unique_clones": 3,
           "unique_views": 0,
           "views": 0
+        },
+        "2026-11-20": {
+          "clones": 20,
+          "unique_clones": 12,
+          "unique_views": 0,
+          "views": 0
         }
       }
     }
   },
-  "updated_at": "2026-11-21T04:02:07Z",
+  "updated_at": "2026-11-22T03:16:24Z",
   "version": 1
 }
